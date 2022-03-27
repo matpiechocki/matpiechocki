@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello everyone 👋
 
-<!--
+
 **matpiechocki/matpiechocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on study project.
@@ -13,4 +13,4 @@
 - ⚡ Fun fact: 
 I don't know why my code doesn't work, but
 I don't know why my code works. 
--->
+
